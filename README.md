@@ -26,6 +26,14 @@
 
 ****
 
+### 试坑之路
+```
+hx.window.showInformationMessage
+
+该标签支持HTML
+
+```
+
 ## vue 转 nvue 功能
 
 ```

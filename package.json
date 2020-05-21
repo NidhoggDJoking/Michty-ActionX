@@ -1,8 +1,8 @@
 {
-	"name": "your extension name",
-	"description": "your extension description",
-	"version": "0.0.0",
-	"publisher": "your name",
+	"name": "MichtyActionX",
+	"description": "This is my test plugin",
+	"version": "1.0.0",
+	"publisher": "Nidhogg·D·Joking",
 	"engines": {
 		"HBuilderX": "^2.7.0"
 	},
@@ -16,7 +16,7 @@
 	"contributes": {
 		"commands": [{
 			"command": "extension.helloWorld",
-			"title": "Hello World"
+			"title": "VTN"
 		}],
 		"menus": {
 			"editor/context": [
