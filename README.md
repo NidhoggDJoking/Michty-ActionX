@@ -6,6 +6,12 @@
 
 <h1 align="center">Michty-ActionX</h1>
 
+<p align="center">
+  <a href="https://hx.dcloud.net.cn/README" target="_blank">
+    <img src="https://img.shields.io/badge/HBuilderX-2.7%2B-brightgreen">
+  </a>
+</p>
+
 ### First Extension For HBuilderX :
 
 开发文档参考：[https://hx.dcloud.net.cn](https://hx.dcloud.net.cn)
