@@ -6,7 +6,7 @@
 
 <h1 align="center">Michty-ActionX</h1>
 
-## First Extension For HBuilderX
+### First Extension For HBuilderX :
 开发文档参考：[https://hx.dcloud.net.cn](https://hx.dcloud.net.cn)
 
 本示例使用步骤：
@@ -17,6 +17,6 @@
 5. 修改这些代码或配置后，目前不支持热修改。需要点击工具栏的运行按钮，或者按下快捷键`Ctrl+r`，停止运行，然后再次重新运行。一般推荐连续按`Ctrl+r`
 
 
-## vue 转 nvue 功能
+### vue 转 nvue 功能
 
-## 模板生成 功能
+### 模板生成 功能
