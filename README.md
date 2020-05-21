@@ -12,7 +12,7 @@
   </a>
 </p>
 
-### First Extension For HBuilderX :
+## First Extension For HBuilderX :
 
 开发文档参考：[https://hx.dcloud.net.cn](https://hx.dcloud.net.cn)
 
